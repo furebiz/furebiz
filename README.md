@@ -1,0 +1,2 @@
+- 👋 Olá, Meu nome é Victor
+- 👀 Estou estudando sobre codígos no Alura
